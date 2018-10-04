@@ -9,7 +9,7 @@
             "udp": true,
             "clients": [
                 {
-                    "id": "your_uuid",
+                    "id": "d6b3e234-d9dc-454e-bc42-9f74ea701b7d",
                     "level": 1,
                     "alterId": 64
                 }
